@@ -1,0 +1,6 @@
+faiss-cpu
+sentence-transformers
+spacy
+pandas
+python-dotenv
+numpy
